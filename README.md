@@ -1,1 +1,2 @@
 # jamstack
+A frontendmasters course!
