@@ -1,0 +1,16 @@
+html,body{
+  color:#555;
+  font-famili:sans-serif;
+  font-size:24px;
+  margin:0;
+}
+
+main{
+  margin: 3rem auto;
+  max-width:90vw;
+  width:50ch;
+}
+
+h1{
+  color:#272421;
+}
